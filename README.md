@@ -1,4 +1,4 @@
-# tradez7.com
+# tradez7.github.io
 
 The TradeZ website — plain HTML and CSS, served free by GitHub Pages.
 
@@ -8,7 +8,7 @@ The TradeZ website — plain HTML and CSS, served free by GitHub Pages.
 | `download/index.html` | Download page (button points at the GitHub Release) |
 | `update.json` | What installed copies of TradeZ read once a day to learn about new versions |
 | `assets/` | Stylesheet, screenshots, icons |
-| `CNAME` | Tells GitHub Pages the site lives at tradez7.com |
+| `CNAME` | Tells GitHub Pages the site lives at tradez7.github.io |
 
 ## New version checklist
 1. Build the installer, then here on GitHub: Releases → Draft a new release → tag `vX.Y.Z` → attach `TradeZ-Setup-X.Y.Z.exe` → Publish.
