@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tradez7.com/sitemap.xml
